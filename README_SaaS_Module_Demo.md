@@ -96,11 +96,3 @@ clarity - Deployment readiness
 
 It represents how a SaaS module would be architected, documented, and
 delivered in a real production environment.
-
-------------------------------------------------------------------------
-
-## Author
-
-Mudassar Zafar\
-Senior Full-Stack Engineer\
-Node.js • React • PostgreSQL • API Integrations • SaaS Architecture
